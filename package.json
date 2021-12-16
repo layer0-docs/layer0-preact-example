@@ -7,7 +7,7 @@
     "dev": "preact watch",
     "lint": "eslint src",
     "test": "jest",
-    "deploy": "layer0 deploy"
+    "layer0:deploy": "layer0 deploy"
   },
   "eslintConfig": {
     "extends": "preact",
